@@ -20,5 +20,5 @@ header_pages:
   - about.md
   - test.md
   - news.md
-  - videos
-  - contact.md
+  - video.html
+  - images
